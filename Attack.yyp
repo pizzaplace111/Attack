@@ -40,7 +40,6 @@
     {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},},
     {"id":{"name":"Oweapon","path":"objects/Oweapon/Oweapon.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Pizza","path":"sprites/Pizza/Pizza.yy",},},
     {"id":{"name":"Sbullet","path":"sprites/Sbullet/Sbullet.yy",},},
     {"id":{"name":"Senemy","path":"sprites/Senemy/Senemy.yy",},},
     {"id":{"name":"SgunPistol","path":"sprites/SgunPistol/SgunPistol.yy",},},
